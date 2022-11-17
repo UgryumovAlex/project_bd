@@ -1,0 +1,1 @@
+./liquibase.bat --classpath=scripts --logLevel debug --defaultsFile=project_bd.properties %*
